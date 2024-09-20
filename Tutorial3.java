@@ -35,6 +35,7 @@
 
 public class Tutorial3 {
     public static void main(String[] args) {
+        // variables
         int a = 5;
         boolean b = true; // true/false
         String str = "Vansh Tomar";
