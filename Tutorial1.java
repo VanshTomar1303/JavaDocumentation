@@ -3,6 +3,8 @@
       * It is an Object-Oriented Programming Language.
       * It statically typed programming language.
       * It is developed by James Goslin released in 1995.
+      * It is developed in Sun-Microsystem in USA.
+      * Java -> It is espresso bean.
 
 
                 Compile             Interpreted
